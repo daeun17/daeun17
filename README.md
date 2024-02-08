@@ -12,11 +12,11 @@
 <a href="https://enchanting-handle-6f9.notion.site/eaedc8ddeabf40b89a362daa0e8256e0" target="_blank"><img src="https://img.shields.io/badge/Projects-6DB33F?style=flat&logoColor=white"/></a>
 
 <!--깃헙 평판 백준 등급-->
-<p align="center" style="line-height: 2;">
+<!-- <p align="center" style="line-height: 2;">
   <img src="https://github-readme-stats.vercel.app/api?username=daeun17" alt="Anurag's GitHub stats"/> &nbsp;&nbsp;
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=daeunk17" alt="Solved.ac Profile"/>
 </p>
-
+-->
 
 ## 💪 Skills 
 <p align="center" style="line-height: 2;">
